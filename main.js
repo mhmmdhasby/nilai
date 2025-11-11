@@ -16,7 +16,7 @@ function cekNilai(){
   }else if (nilai >= 50) {
     hasil = "nilai C (Belajar Lagi yaa)"
   }else if (nilai >= 5) {
-    hasil = "nilai D (Sedikit Tolol)"
+    hasil = "nilai D (Sedikit Dongo)"
   }else if (nilai > 0) {
     hasil = "nilai EE (TOLOL BANGETT!!!MANUSIA MACAM APAAN LU)"
   }
